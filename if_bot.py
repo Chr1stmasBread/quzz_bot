@@ -84,4 +84,4 @@ def choice_out_home_with_window():
 print("сцена 1")
 # Переход на сцену 2
 print("сцена 2")
-print()
+print("Я ХОЧУ ВСКРЫТЬ ВЕНЫ")
